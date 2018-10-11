@@ -314,7 +314,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [CONVRG](https://www.convrg.io) - Enterprise AI-powered chatbot and messaging experience platform providing personalized conversations that live on FMB, Kik, Webchat, Alexa and Google Home, integrates with CMS systems and E-Commerce platforms.
 * [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 * [eXvisory](https://exvisory.ai) - Visual framework for creating 'deep logic' product support AI chatbots able to match the BEST human troubleshooters
-
+* [Floatbot](https://floatbot.ai) - Floatbot is Omni-Channel SaaS based DIY AI Chatbot and Voicebot development platform. Floatbot offers the most advanced AI deep-tech tools that helps any business or organization develop comprehensive AI Chatbot & Voicebot.
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
 * [Howdy](https://howdy.ai/) - Meet Howdy — a friendly, trainable bot that helps Slack teams with work
